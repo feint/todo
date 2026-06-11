@@ -15,8 +15,6 @@ todo --delete 1
 
 ### Homebrew
 
-After the Homebrew tap is published:
-
 ```sh
 brew install feint/todo/todo
 ```
