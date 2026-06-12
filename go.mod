@@ -1,3 +1,3 @@
-module github.com/feint/todo
+module github.com/feint/cli-todo
 
 go 1.22

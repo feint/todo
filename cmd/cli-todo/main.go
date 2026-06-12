@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/feint/todo/internal/todo"
+	"github.com/feint/cli-todo/internal/todo"
 )
 
 var version = "0.1.0"
